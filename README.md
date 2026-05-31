@@ -35,3 +35,7 @@ A web-based Email Subscribers Management System built with PHP (PDO), MySQL, and
 ├── import-csv.php
 ├── index.php
 └── logout.php
+
+## Educational Purpose
+
+This project was developed for educational purposes to demonstrate the implementation of secure subscriber management, database integration using PDO, and password hashing algorithms (BCRYPT) within a PHP environment.
