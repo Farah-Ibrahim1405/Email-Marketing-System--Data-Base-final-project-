@@ -25,7 +25,7 @@ A web-based Email Subscribers Management System built with PHP (PDO), MySQL, and
 
 ## Project Structure
 
-```
+```text
 ├── style.css
 ├── add-subscriber.php
 ├── dashboard.php
@@ -35,6 +35,7 @@ A web-based Email Subscribers Management System built with PHP (PDO), MySQL, and
 ├── import-csv.php
 ├── index.php
 └── logout.php
+```
 
 ## Educational Purpose
 
